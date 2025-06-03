@@ -1,9 +1,0 @@
-{"label":"IMPOSTO","pattern":[{"LOWER":"ir"}]}
-{"label":"IMPOSTO","pattern":[{"LOWER":"iof"}]}
-{"label":"IMPOSTO","pattern":[{"LOWER":"pis"}]}
-{"label":"IMPOSTO","pattern":[{"LOWER":"cofins"}]}
-{"label":"IMPOSTO","pattern":[{"LOWER":"cide"}]}
-{"label":"VALOR","pattern":[{"LIKE_NUM":true},{"LOWER":"reais"}]}
-{"label":"VALOR","pattern":[{"LOWER":"r$"},{"LIKE_NUM":true}]}
-{"label":"BASE_CALCULO","pattern":[{"LOWER":"base"},{"LOWER":"de"},{"LOWER":"c\u00e1lculo"}]}
-{"label":"ALIQUOTA","pattern":[{"LIKE_NUM":true},{"TEXT":"%"}]}
